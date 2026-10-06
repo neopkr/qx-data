@@ -1,0 +1,51 @@
+{
+    "id": "circuncision",
+    "name": "Circucisión",
+    "author": "QXData",
+    "description": "Descripción del procedimiento",
+    "materials": [
+        {
+            "name": "Compresas",
+            "qty": 5,
+            "unit": "unidades",
+            "note": ""
+        },
+        {
+            "name": "Gasas largas",
+            "qty": 5,
+            "unit": "unidades",
+            "note": ""
+        },
+        {
+            "name": "Electrobisturí",
+            "qty": 1,
+            "unit": "unidad",
+            "note": "Llevar conjunto placa de electrobisturí y almohadilla lija de electro"
+        },
+        {
+            "name": "Bisturí #15",
+            "qty": 1,
+            "unit": "unidad",
+            "note": ""
+        }
+    ],
+    "sutures": [
+        {
+            "name": "PDS",
+            "size": "6-0",
+            "needle": "",
+            "qty": 1,
+            "unit": "unidad",
+            "note": "El tamaño suele variar dependiendo de la edad del paciente."
+        }
+    ],
+    "boxes": [
+        {
+            "name": "Fimosis",
+            "qty": 1,
+            "count": 24,
+            "instrumental": {}
+        }
+    ],
+    "steps": []
+}

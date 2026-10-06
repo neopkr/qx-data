@@ -1,0 +1,198 @@
+{
+  "id": "hernia-hiatal-lp",
+  "name": "Hernia Hiatal Laparoscopica",
+  "description": "Descripción general del procedimiento",
+  "author": "QXData",
+  "specialty": "Cirugía General",
+  "materials": [
+    {
+      "name": "Compresas",
+      "quantity": 3,
+      "unit": "paquetes"
+    },
+    {
+      "name": "Gasas Largas",
+      "quantity": 2,
+      "unit": "paquete"
+    },
+    {
+      "name": "Bisturí #11",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Paquetes de ropa",
+      "quantity": 2,
+      "unit": "paquete"
+    },
+    {
+      "name": "Sonda de Lavado",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Sonda de Aspiración",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Manga Laparoscopica",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Malla (Vicryl o Goretex)",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Trocar 5MM",
+      "quantity": 3,
+      "unit": "unidad"
+    },
+    {
+      "name": "Trocar 10MM",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Gasas cuadradas",
+      "quantity": 5,
+      "unit": "unidad"
+    },
+    {
+      "name": "Steri Strip",
+      "quantity": 5,
+      "unit": "unidad"
+    },
+    {
+      "name": "Tegaderm Chico y Grande",
+      "quantity": 3,
+      "unit": "unidad"
+    },
+    {
+      "name": "Clipera",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Ligasure 5mm - 37 cm",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Lápiz con regla",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 20 CC Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 5 CC Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 60 CC Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Electrobisturí Monopolar",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Lija o virutilla de electrobisturí",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Vaselina",
+      "quantity": 1,
+      "unit": "ampolla"
+    },
+    {
+      "name": "Suero Fisiológico 1000 cc ",
+      "quantity": 2,
+      "unit": "unidad"
+    },
+    {
+      "name": "Bandeja Estéril",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Alforja",
+      "quantity": 2,
+      "unit": "unidad"
+    },
+    {
+      "name": "Clorhexidina (tinturada y jabonosa)",
+      "quantity": 1,
+      "unit": "unidad"
+    }
+  ],
+  "sutures": [
+    {
+      "name": "Vicryl",
+      "size": "4-0",
+      "needle": "SH-1",
+      "quantity": 2
+    },
+    {
+      "name": "Vicryl",
+      "size": "3-0",
+      "needle": "SH-1",
+      "quantity": 2
+    },
+    {
+      "name": "Ethibond",
+      "size": "2-0",
+      "needle": "RB-1",
+      "quantity": 8
+    },
+    {
+      "name": "Prolene",
+      "size": "2-0",
+      "needle": "",
+      "quantity": 6
+    },
+    {
+      "name": "Monocryl",
+      "size": "5-0",
+      "needle": "",
+      "quantity": 2
+    },
+    {
+      "name": "Monocryl",
+      "size": "4-0",
+      "needle": "",
+      "quantity": 2
+    },
+    {
+      "name": "Vicryl",
+      "size": "0",
+      "needle": "SH",
+      "quantity": 2
+    }
+  ],
+  "instrumental": [
+    {
+      "name": "Caja Laparoscopía 5MM (Revisar tabla del paciente en observaciones)",
+      "quantity": 1
+    },
+    {
+      "name": "Caja abdomen lactante",
+      "quantity": 1
+    },
+    {
+      "name": "Óptica Storz 30°",
+      "quantity": 1
+    }
+  ],
+  "steps": []
+}
