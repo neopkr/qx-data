@@ -16,6 +16,16 @@
             "name": "Circuncisión",
             "specialty": "Urología",
             "filename": "circuncision-uro.json"
+        },
+        {
+            "name": "Amigdalectomia",
+            "specialty": "Otorrino",
+            "filename": "amigdalectomia.json"
+        },
+        {
+            "name": "Estrabismo",
+            "specialty": "Oftalmología",
+            "filename": "estrabismo.json"
         }
     ]
 }

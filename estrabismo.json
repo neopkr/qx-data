@@ -1,0 +1,80 @@
+{
+  "id": "estrabismo",
+  "name": "Estrabismo",
+  "description": "",
+  "author": "",
+  "specialty": "Oftalmología",
+  "materials": [
+    {
+      "name": "Compresas",
+      "quantity": 1,
+      "unit": "paquete"
+    },
+    {
+      "name": "Gasas Largas",
+      "quantity": 1,
+      "unit": "paquete"
+    },
+    {
+      "name": "Povidona Yodada Jabonosa",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Povidona Yodada Tinturada",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Suero Ringer Lactato",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Tegaderm chico y grande",
+      "quantity": 2,
+      "unit": "unidad"
+    },
+    {
+      "name": "Protectores Oculares",
+      "quantity": 2,
+      "unit": "unidades"
+    },
+    {
+      "name": "Frasco rojo de biopsia",
+      "quantity": 2,
+      "unit": "unidades"
+    },
+    {
+      "name": "Bipolar Adson",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Lápiz con regla",
+      "quantity": 1,
+      "unit": "unidad"
+    }
+  ],
+  "sutures": [
+    {
+      "name": "Vicryl",
+      "size": "6-0",
+      "needle": "",
+      "quantity": 1
+    },
+    {
+      "name": "Seda",
+      "size": "8-0",
+      "needle": "",
+      "quantity": 1
+    }
+  ],
+  "instrumental": [
+    {
+      "name": "Caja de estrabismo",
+      "quantity": 1
+    }
+  ],
+  "steps": []
+}

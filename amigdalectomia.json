@@ -1,0 +1,82 @@
+{
+  "id": "amigdalectomia",
+  "name": "Amigdalectomia",
+  "description": "Electro en Coagulacion 15 y Cut 1 (importante), revisar materiales siempre con el cirujano. La mesa de arsenalero no se desmonta hasta que el paciente este despierto.",
+  "author": "",
+  "specialty": "Otorrinolaringología",
+  "materials": [
+    {
+      "name": "Compresas",
+      "quantity": 1,
+      "unit": "paquete"
+    },
+    {
+      "name": "Gasas Largas",
+      "quantity": 1,
+      "unit": "paquete"
+    },
+    {
+      "name": "Electrobisturí Monopolar",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Electrobisturí bipolar bayoneta",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Frasco rojo de biopsia",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 20 Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Sonda de aspiración",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Bandeja estéril",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Cánula Yankauer 8FR",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Punta de electrobisturí chica",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Suero fisiológico 1000cc a temperatura ambiente",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Limpia electrobisturí (virutilla)",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Placa de electro",
+      "quantity": 1,
+      "unit": "unidad"
+    }
+  ],
+  "sutures": [],
+  "instrumental": [
+    {
+      "name": "Caja Adeno Storz",
+      "quantity": 1
+    }
+  ],
+  "steps": []
+}
