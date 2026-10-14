@@ -3,7 +3,7 @@
     "date": "04102026",
     "data": [
         {
-            "name": "Cincursicion",
+            "name": "Circuncisión",
             "specialty": "Cirugia General",
             "filename": "circuncision.json"
         },
@@ -11,6 +11,11 @@
             "name": "Hernia Hiatal Laparoscopica",
             "specialty": "Cirugia General",
             "filename": "hernia-hiatal-lp.json"
+        },
+        {
+            "name": "Circuncisión",
+            "specialty": "Urología",
+            "filename": "circuncision-uro.json"
         }
     ]
 }
