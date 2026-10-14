@@ -1,4 +1,16 @@
 {
     "version": 1,
-    "date": "04102026"
+    "date": "04102026",
+    "data": [
+        {
+            "name": "Cincursicion",
+            "specialty": "Cirugia General",
+            "filename": "circuncision.json",
+        },
+        {
+            "name": "Hernia Hiatal Laparoscopica",
+            "specialty": "Cirugia General",
+            "filename": "hernia-hiatal-lp.json",
+        }
+    ]
 }
