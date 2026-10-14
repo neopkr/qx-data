@@ -5,12 +5,12 @@
         {
             "name": "Cincursicion",
             "specialty": "Cirugia General",
-            "filename": "circuncision.json",
+            "filename": "circuncision.json"
         },
         {
             "name": "Hernia Hiatal Laparoscopica",
             "specialty": "Cirugia General",
-            "filename": "hernia-hiatal-lp.json",
+            "filename": "hernia-hiatal-lp.json"
         }
     ]
 }
