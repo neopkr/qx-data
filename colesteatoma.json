@@ -1,0 +1,110 @@
+{
+  "id": "colesteatoma",
+  "name": "Operación Radical de Oido (Colesteatoma)",
+  "description": "",
+  "author": "",
+  "specialty": "Otorrinolaringología",
+  "materials": [
+    {
+      "name": "Compresas",
+      "quantity": 6,
+      "unit": "paquetes"
+    },
+    {
+      "name": "Gasas Largas",
+      "quantity": 2,
+      "unit": "paquetes"
+    },
+    {
+      "name": "Sonda de aspiración",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Bandeja estéril",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 20cc Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Jeringa 60cc Luer Lock",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Bipolar Adson",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Electrobisturí Monopolar",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Placa de electro",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Limpia electrobisturí (virutilla)",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Frasco rojo de biopsia",
+      "quantity": 3,
+      "unit": "unidades"
+    },
+    {
+      "name": "Bolsas plásticas",
+      "quantity": 2,
+      "unit": "unidades"
+    },
+    {
+      "name": "Tapón nasal chico",
+      "quantity": 1,
+      "unit": "unidad"
+    },
+    {
+      "name": "Povidona Yodada Tinturada",
+      "quantity": 1,
+      "unit": "unidad"
+    }
+  ],
+  "sutures": [
+    {
+      "name": "Vicryl",
+      "size": "4-0",
+      "needle": "SH-1",
+      "quantity": 3
+    },
+    {
+      "name": "Prolene",
+      "size": "5-0",
+      "needle": "",
+      "quantity": 3
+    },
+    {
+      "name": "Ethilon (Nylon)",
+      "size": "4-0",
+      "needle": "",
+      "quantity": 2
+    }
+  ],
+  "instrumental": [
+    {
+      "name": "Caja oído",
+      "quantity": 1
+    },
+    {
+      "name": "Caja motor oído (externa)",
+      "quantity": 1
+    }
+  ],
+  "steps": []
+}

@@ -1,6 +1,6 @@
 {
-    "version": 1,
-    "date": "04102026",
+    "version": 3,
+    "date": "14102026",
     "data": [
         {
             "name": "Circuncisión",
@@ -26,6 +26,11 @@
             "name": "Estrabismo",
             "specialty": "Oftalmología",
             "filename": "estrabismo.json"
+        },
+        {
+            "name": "Operación Radical de Oido (Colesteatoma)",
+            "specialty": "Otorrino",
+            "filename": "colesteatoma.json"
         }
     ]
 }
